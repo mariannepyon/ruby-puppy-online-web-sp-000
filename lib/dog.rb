@@ -9,6 +9,10 @@ class Dog
     @@all << self
   end
 
+  def save
+    @@all << self
+  end
+
   #def self.save
     #puts dog.name
   #end??
