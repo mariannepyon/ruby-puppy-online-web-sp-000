@@ -6,13 +6,13 @@ class Dog
 
   def initialize
     save(name)
-    
+
   end
 
   def save(name)
     @@all << self
   end
-    
+
 
   def self.all
     @@all.each do |dog|
