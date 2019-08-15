@@ -32,7 +32,7 @@ end
       puts dog.name
 
   end
-
+save
 
 end
 end
