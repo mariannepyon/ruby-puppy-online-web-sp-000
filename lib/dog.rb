@@ -11,7 +11,7 @@ class Dog
 
   #def self.save
     #puts dog.name
-  #end
+  #end??
 
   def self.all
     @@all.each do |dog|
